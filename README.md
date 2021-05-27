@@ -1,4 +1,4 @@
-# 674-Final-Project
+# Gradient-based 3D mesh style transfer using 2D supervision
 
 This repository contains implementation of the Final Project of COMPSCI 674 course at UMass Amherst. <br>
 Contributors: <br>
@@ -8,8 +8,8 @@ Rushikesh Dudhat (rdudhat@umass.edu) <br>
 
 # Contribution Split
 
-Abhishek Lalwani (alalwani@umass.edu) (main.py in style_transfer_3d and minor bug fixes in the neural_renderer repository to ensure compatibility) </br>
 Himanshu Gupta (hgupta@umass.edu) (Run.py in style_transfer_3d in style_transfer_3d and the integration of the texture-mapping pipeline) </br>
+Abhishek Lalwani (alalwani@umass.edu) (main.py in style_transfer_3d and minor bug fixes in the neural_renderer repository to ensure compatibility) </br>
 Rushikesh Dudhat (rdudhat@umass.edu) (StyleLoss.py and model_with_hooks.py in style_transfer_3d) </br>
 
 Please note that this contribution is only a rough estimate of the code written by the teammates.</br>
